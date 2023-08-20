@@ -1,4 +1,4 @@
-# Hello! 👋 I'm @josthrj English
+# Hello! 👋 I'm @josthrj 
 
 ## About me
 - 👀 I'm interested in software development and applications for the automotive, fintech, and big data sectors. I'm passionate about applying technology in these fields and how it can have a positive impact on the industry.
